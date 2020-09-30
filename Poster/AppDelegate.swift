@@ -2,13 +2,12 @@
 //  AppDelegate.swift
 //  Poster
 //
-//  Created by 윤진영 on 2020/09/01.
-//  Copyright © 2020 윤진영. All rights reserved.
+//  Created by 윤진영 on 2020/09/30.
 //
 
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
